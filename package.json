@@ -1,5 +1,5 @@
 {
-  "name": "NextGenEdu",
+  "name": "Next-e-learning",
   "version": "1.0.0",
   "description": "This is for e-learning",
   "main": "index.js",
@@ -8,14 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ecommerce",
-    "farmonhand",
-    "farmer",
-    "hibban",
-    "meraj",
-    "danish"
+    "Next-e-learning",
+    "e-learning",
+    "lms",
+    "akif jawaid"
   ],
-  "author": "Hibbanur Rahman",
+  "author": "Akif Jawaid",
   "license": "ISC",
   "dependencies": {
     "@vonage/server-sdk": "^3.14.0",
